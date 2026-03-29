@@ -16,4 +16,7 @@ At the moment:
 I am passionate about learning, growing, and building real-world projects step by step.
 
 ## Contact
-Email: https://github.com/bidemiaminat/Todo-List.git
+Email:bidemiaminat@gmail.com.
+
+You can view the live project here:
+https://bidemiaminat.github.io/Todo-List/
